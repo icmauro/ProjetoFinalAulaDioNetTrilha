@@ -1,0 +1,14 @@
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\bin\Debug\net7.0\Aula.Data.Infra.deps.json
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\bin\Debug\net7.0\Aula.Data.Infra.runtimeconfig.json
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\bin\Debug\net7.0\Aula.Data.Infra.dll
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\bin\Debug\net7.0\Aula.Data.Infra.pdb
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.csproj.AssemblyReference.cache
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.AssemblyInfoInputs.cache
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.AssemblyInfo.cs
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.dll
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\refint\Aula.Data.Infra.dll
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.pdb
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\Aula.Data.Infra.genruntimeconfig.cache
+C:\Users\Italo\source\repos\Aula\Aula.Data.Infra\obj\Debug\net7.0\ref\Aula.Data.Infra.dll
